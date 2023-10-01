@@ -62,4 +62,3 @@ humanitec:
   orgId: ${HUMANITEC_ORG_ID}
   token: ${HUMANITEC_TOKEN}
   registryUrl: ${AWS_ECR}
-
